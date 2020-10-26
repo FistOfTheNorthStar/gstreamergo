@@ -1,3 +1,3 @@
-module github.com/FistOfTheNorthStar/gstreamer-go
+module github.com/FistOfTheNorthStar/gstreamergo
 
 go 1.15
