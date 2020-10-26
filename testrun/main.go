@@ -4,8 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	gst "github.com/FistOfTheNorthStar/gstreamer-go"
-	//gst "github.com/notedit/gstreamer-go"
+	gst "github.com/FistOfTheNorthStar/gstreamergo"
 )
 
 func main() {

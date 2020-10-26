@@ -1,4 +1,4 @@
-# gstreamer-go
+# gstreamergo
 gstreamer simple wrap for golang
 
 
@@ -27,7 +27,7 @@ brew install gst-plugins-ugly
 Then
 
 ```sh
-go get github.com/FistOfTheNorthStar/gstreamer-go
+go get github.com/FistOfTheNorthStar/gstreamergo
 ```
 
 
